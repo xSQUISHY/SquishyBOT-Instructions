@@ -67,7 +67,7 @@ Before we begin, SquishyBOT has to be invited to the desired Discord server to f
    /autodelete list <User & Roles/Formats> Display which User(s)/Role(s) are excluded from auto-delete or view enabled/disabled formats.
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Back to Top</a>)</p>
 
 
 
@@ -90,12 +90,73 @@ Before we begin, SquishyBOT has to be invited to the desired Discord server to f
    /emoji <:emoji:> | Displays emoji information.
    ```
 
+### Utility Commands
+
+   
+### Fun Commands
+
+1. Counting Game - Simple counting game for community interaction!
+   ```sh
+   /counting set-channel | Channel will be created and counting-game will be set to the channel.
+   /counting allow-doubletext <enable/disable> | Toggle if the same user to count multiple times in a row.
+   /counting current-number | Display current and next number of the active count.
+   /counting <user> | Display a specific user's amount of chains broken.
+   /counting leaderboard | Displays the server's highest streak of the server and who broke the most streaks.
+   /counting cheaterboard | Displays which individuals maliciously attempt to destroy the counting chain.
+   ```
+
+### Gambling Commands
+* Gambling is disabled by default, enable with /gambling enable. 
+* Virtual currency is used for the gambling games.
+1. Currency
+   ```sh
+   /currency balance <user:optional> | Display yours or another user's total balance.
+   /currency redeem | A user can redeem $500 every 24 hours.
+   /currency transfer <user> <amount> | Transfer currency to another user within the server.
+   ```
+1. Blackjack 
+* Known Issues: Dealer's cards are displayed early. Split function doesn't work properly. Tied game payout doesn't return money.
+   ```sh
+   /blackjack <bet> | Start a game of blackjack w/ a set betting amount.
+   ```
+1. Slots 
+   ```sh
+   /slots <amount> | Start a game of slots w/ a set betting amount.
+   ```
+1. Roulette 
+   ```sh
+   /roulette <amount> | Start a game of roulette w/ a set betting amount, color option and optional number.
+   ```
+1. Coin-Flip (Player vs Player)
+   ```sh
+   /coinflip <user> <heads/tails> <amount> | Mention a user, select your coin side and your betting amount. User will be ping'd about their challenge and once accepted; game will start.
+   ```
+1. Rock Paper Scissors (Player vs Player)
+   ```sh
+   /rps <user> <r/p/s> <amount> | Mention a user, select your rps choice and your betting amount. User will be ping'd about their challenge and once accepted; opponent will choose their value of RPS and the game will start.
+   ```
+
+### Moderation Commands
+
+
+
+### Administration Commands
+
+
+
+### Owner Commands
+1. Nuke | Duplicate & delete previous channel. 
+   ```sh
+   /nuke | Duplicate a channel w/ permissions & delete old channel. [Confirmation Message Included]
+```
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
 ## Contact
 
 [SQUISHY's Discord](https://discord.gg/DjTgBxzhZr)
+
 [SquishyBOT Discord Invite](https://squishybot.xyz/invite)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
