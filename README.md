@@ -1,20 +1,10 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a id="readme-top"></a>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/xSQUISHY/SquishyBOT-Instructions">
+    <img src="https://squishybot.xyz/SQUISHY.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">SquishyBOT v1.0.1</h3>
@@ -43,12 +33,8 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+
   </ol>
 </details>
 
@@ -112,7 +98,6 @@ Before we begin, SquishyBOT has to be invited to the desired Discord server to f
 ## Contact
 
 [SQUISHY's Discord](https://discord.gg/DjTgBxzhZr)
-
 [SquishyBOT Discord Invite](https://squishybot.xyz/invite)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -120,6 +105,7 @@ Before we begin, SquishyBOT has to be invited to the desired Discord server to f
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[squishybot-logo]: https://squishybot.xyz/SQUISHY.png
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
 [contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
