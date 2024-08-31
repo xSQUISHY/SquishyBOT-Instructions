@@ -148,7 +148,7 @@ Before we begin, SquishyBOT has to be invited to the desired Discord server to f
 1. Nuke | Duplicate & delete previous channel. 
    ```sh
    /nuke | Duplicate a channel w/ permissions & delete old channel. [Confirmation Message Included]
-```
+   ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
